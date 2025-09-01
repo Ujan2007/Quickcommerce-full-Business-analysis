@@ -1,0 +1,1 @@
+# Quickcommerce-full-Business-analysis
