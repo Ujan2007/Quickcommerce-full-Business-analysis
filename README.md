@@ -5,6 +5,8 @@
 This project analyzes data from a Quick Commerce company facing losses.
 The goal was to identify patterns, visualize trends, and provide insights into customer behavior, order value, and delivery issues using Python, Orange, and Flourish.
 
+*VIEW PRESENTATIONS FOR FINA FINISHED PDF/PPT*
+
 
 🗂️ Project Structure
 Quick-Commerce-Data-Analysis/
