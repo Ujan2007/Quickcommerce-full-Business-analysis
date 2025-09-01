@@ -2,7 +2,7 @@
 
 📌 Project Overview
 
-This project analyzes customer behavior and performance metrics for a Quick Commerce company. The goal was to identify factors affecting customer satisfaction, average order value, and delivery efficiency, and to provide actionable insights for improving business performance.
+This project analyzes customer behavior and performance metrics for a fictional Quick Commerce company named QuickBazaar. The goal was to identify factors affecting customer satisfaction, average order value, and delivery efficiency, and to provide actionable insights for improving business performance.
 
 📂 Project Structure
 Quick-Commerce-Data-Analysis/
