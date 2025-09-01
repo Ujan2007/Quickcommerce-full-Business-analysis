@@ -1,0 +1,1001 @@
+CustomerID,OrderTimestamp,AOV,CustomerRating,Feedback,,,Order  Month
+CUST_0103,26-02-2025,287.42,2,Very bad experience.,,,February
+CUST_0436,27-02-2025,417.02,5,Very fast delivery.,,,February
+CUST_0349,11-07-2025,266.23,3,Excellent service!,,,July
+CUST_0271,10-05-2025,411.72,5,Loved the discounts.,,,May
+CUST_0107,27-03-2025,386.29,5,User friendly app.,,,March
+CUST_0072,06-05-2025,381.12,5,User friendly app.,,,Order  Month
+CUST_0189,03-02-2025,382.18,1,Poor packaging.,,,February
+CUST_0021,25-03-2025,488.37,3,Very fast delivery.,,,March
+CUST_0103,24-04-2025,207.12,4,Neutral experience.,,,April
+CUST_0122,19-04-2025,292.03,5,Product quality acceptable.,,,April
+CUST_0467,01-02-2025,395.13,1,Delivery was very late.,,,February
+CUST_0215,04-02-2025,258.56,4,Nothing special.,,,February
+CUST_0331,04-03-2025,405.53,5,Delivery was okay.,,,March
+CUST_0459,06-05-2025,393.9,5,Excellent service!,,,May
+CUST_0088,04-07-2025,231.55,5,Excellent service!,,,July
+CUST_0373,29-05-2025,225.62,4,Very fast delivery.,,,May
+CUST_0100,22-03-2025,85.15,2,Average service.,,,March
+CUST_0360,26-03-2025,253.52,5,User friendly app.,,,March
+CUST_0152,29-03-2025,401.72,4,Product quality acceptable.,,,March
+CUST_0131,19-03-2025,418.74,1,App glitches caused trouble.,,,March
+CUST_0150,26-04-2025,424.23,4,Excellent service!,,,April
+CUST_0309,16-04-2025,306.65,2,App glitches caused trouble.,,,April
+CUST_0258,16-07-2025,397.8,4,User friendly app.,,,July
+CUST_0344,22-03-2025,447.67,4,Neutral experience.,,,March
+CUST_0492,02-03-2025,247.84,4,Product quality acceptable.,,,March
+CUST_0414,29-07-2025,414.8,3,Delivery was okay.,,,July
+CUST_0294,16-07-2025,478.78,5,User friendly app.,,,July
+CUST_0386,20-04-2025,341.11,2,Customer support unhelpful.,,,April
+CUST_0192,23-03-2025,527.47,5,Nothing special.,,,March
+CUST_0444,01-03-2025,343.91,3,Loved the discounts.,,,March
+CUST_0277,25-06-2025,296.79,4,Excellent service!,,,June
+CUST_0161,25-04-2025,466.82,5,Good quality products.,,,April
+CUST_0460,06-03-2025,644,5,Great experience overall.,,,March
+CUST_0314,06-06-2025,410.24,4,Delivery was okay.,,,June
+CUST_0022,26-05-2025,476.19,4,Great experience overall.,,,May
+CUST_0253,01-07-2025,338.95,3,Wrong items delivered.,,,July
+CUST_0236,06-05-2025,251.01,4,Good quality products.,,,May
+CUST_0345,24-06-2025,419.95,4,User friendly app.,,,June
+CUST_0049,15-05-2025,438.93,5,Great experience overall.,,,May
+CUST_0475,25-02-2025,357.05,4,Very fast delivery.,,,February
+CUST_0059,05-07-2025,475.73,4,Very fast delivery.,,,July
+CUST_0170,23-03-2025,321.51,2,Customer support unhelpful.,,,March
+CUST_0476,05-02-2025,291.75,5,Very fast delivery.,,,February
+CUST_0188,20-07-2025,527.28,1,Wrong items delivered.,,,July
+CUST_0464,11-04-2025,527.84,3,Great experience overall.,,,April
+CUST_0271,12-02-2025,323.88,4,Nothing special.,,,February
+CUST_0190,27-07-2025,606.26,5,Good quality products.,,,July
+CUST_0446,17-03-2025,365.55,3,Excellent service!,,,March
+CUST_0175,19-03-2025,410.17,3,Very bad experience.,,,March
+CUST_0446,28-03-2025,389.84,4,Average service.,,,March
+CUST_0051,02-04-2025,462.85,5,Product quality acceptable.,,,April
+CUST_0364,08-03-2025,432.57,5,Very fast delivery.,,,March
+CUST_0055,24-05-2025,430.96,4,Delivery was okay.,,,May
+CUST_0244,19-03-2025,277.65,3,Very fast delivery.,,,March
+CUST_0320,14-02-2025,197.37,1,App glitches caused trouble.,,,February
+CUST_0131,10-06-2025,537.06,4,Loved the discounts.,,,June
+CUST_0485,14-02-2025,334.55,5,Neutral experience.,,,February
+CUST_0307,07-02-2025,394.12,4,Nothing special.,,,February
+CUST_0135,01-07-2025,439.22,4,Great experience overall.,,,July
+CUST_0021,18-02-2025,595.48,4,Nothing special.,,,February
+CUST_0329,26-05-2025,419.36,5,User friendly app.,,,May
+CUST_0167,30-05-2025,352.62,3,Very fast delivery.,,,May
+CUST_0274,11-03-2025,337.17,3,Excellent service!,,,March
+CUST_0388,27-04-2025,395.52,3,Neutral experience.,,,April
+CUST_0089,25-06-2025,290.88,5,User friendly app.,,,June
+CUST_0316,25-02-2025,403.47,5,Loved the discounts.,,,February
+CUST_0014,08-04-2025,393.76,4,Very fast delivery.,,,April
+CUST_0242,26-06-2025,596.98,3,User friendly app.,,,June
+CUST_0265,22-05-2025,389.97,1,Delivery was very late.,,,May
+CUST_0346,22-05-2025,169.06,2,Nothing special.,,,May
+CUST_0053,24-05-2025,720.82,5,Good quality products.,,,May
+CUST_0386,14-03-2025,514.82,5,Average service.,,,March
+CUST_0340,06-02-2025,649.88,2,Very bad experience.,,,February
+CUST_0092,05-04-2025,261.12,5,Great experience overall.,,,April
+CUST_0367,31-03-2025,373.38,4,Good quality products.,,,March
+CUST_0444,01-06-2025,480.93,5,Great experience overall.,,,June
+CUST_0455,30-06-2025,464.37,3,Wrong items delivered.,,,June
+CUST_0428,11-04-2025,436.83,1,Poor packaging.,,,April
+CUST_0264,04-02-2025,136.05,3,Product quality acceptable.,,,February
+CUST_0431,06-05-2025,194.51,2,Delivery was okay.,,,May
+CUST_0035,17-06-2025,582.1,1,App glitches caused trouble.,,,June
+CUST_0206,03-03-2025,603.44,4,Great experience overall.,,,March
+CUST_0081,08-03-2025,387.2,4,Good quality products.,,,March
+CUST_0420,06-02-2025,566.85,5,Product quality acceptable.,,,February
+CUST_0050,16-04-2025,277.21,5,User friendly app.,,,April
+CUST_0360,14-06-2025,304.67,2,Poor packaging.,,,June
+CUST_0388,05-05-2025,267.73,5,Average service.,,,May
+CUST_0002,29-07-2025,298.01,5,Delivery was okay.,,,July
+CUST_0390,16-06-2025,486.72,1,Wrong items delivered.,,,June
+CUST_0054,16-03-2025,296.52,4,Neutral experience.,,,March
+CUST_0106,04-07-2025,668.77,1,Very bad experience.,,,July
+CUST_0260,19-02-2025,455.21,2,App glitches caused trouble.,,,February
+CUST_0310,20-02-2025,530.14,5,User friendly app.,,,February
+CUST_0477,19-03-2025,458.79,3,Neutral experience.,,,March
+CUST_0191,22-06-2025,545.71,5,Great experience overall.,,,June
+CUST_0402,06-06-2025,295.84,5,Excellent service!,,,June
+CUST_0218,18-04-2025,573.63,4,User friendly app.,,,April
+CUST_0044,11-07-2025,416.91,4,Excellent service!,,,July
+CUST_0162,10-02-2025,545.11,4,Great experience overall.,,,February
+CUST_0202,18-06-2025,227.25,3,Delivery was okay.,,,June
+CUST_0446,13-02-2025,421.67,4,Loved the discounts.,,,February
+CUST_0484,25-04-2025,417.43,3,Very fast delivery.,,,April
+CUST_0270,14-04-2025,325.69,4,User friendly app.,,,April
+CUST_0351,23-06-2025,437.57,3,Nothing special.,,,June
+CUST_0304,13-07-2025,584.75,5,Great experience overall.,,,July
+CUST_0271,03-04-2025,316.46,4,User friendly app.,,,April
+CUST_0456,19-04-2025,515.42,2,Very bad experience.,,,April
+CUST_0462,17-06-2025,264.71,4,Average service.,,,June
+CUST_0215,07-03-2025,653.13,5,User friendly app.,,,March
+CUST_0252,05-04-2025,494.15,3,Very bad experience.,,,April
+CUST_0190,05-04-2025,607.01,4,User friendly app.,,,April
+CUST_0296,16-05-2025,480.65,4,Good quality products.,,,May
+CUST_0213,01-04-2025,446.87,5,Loved the discounts.,,,April
+CUST_0208,15-07-2025,495.15,3,Good quality products.,,,July
+CUST_0237,03-06-2025,383.63,3,User friendly app.,,,June
+CUST_0338,03-04-2025,205.86,4,Product quality acceptable.,,,April
+CUST_0367,14-03-2025,453.69,3,Product quality acceptable.,,,March
+CUST_0053,13-04-2025,309.34,4,Loved the discounts.,,,April
+CUST_0280,14-02-2025,267.8,1,Very bad experience.,,,February
+CUST_0410,08-05-2025,476.36,3,App glitches caused trouble.,,,May
+CUST_0217,03-07-2025,366.51,5,Delivery was okay.,,,July
+CUST_0252,25-03-2025,523.32,5,Nothing special.,,,March
+CUST_0188,29-07-2025,305.33,5,Delivery was okay.,,,July
+CUST_0380,14-06-2025,343.5,5,Great experience overall.,,,June
+CUST_0493,29-07-2025,538.04,4,User friendly app.,,,July
+CUST_0041,15-02-2025,433.58,5,Good quality products.,,,February
+CUST_0157,05-03-2025,222.72,2,App glitches caused trouble.,,,March
+CUST_0015,05-07-2025,430.93,5,Average service.,,,July
+CUST_0301,10-03-2025,577.75,4,Very fast delivery.,,,March
+CUST_0065,05-07-2025,342.57,1,Delivery was very late.,,,July
+CUST_0345,27-04-2025,471.77,4,Very fast delivery.,,,April
+CUST_0327,05-02-2025,298.07,5,Good quality products.,,,February
+CUST_0009,29-05-2025,383.59,3,Neutral experience.,,,May
+CUST_0344,09-07-2025,530.78,5,Good quality products.,,,July
+CUST_0129,20-05-2025,426.31,4,Neutral experience.,,,May
+CUST_0492,15-02-2025,554.71,3,Delivery was okay.,,,February
+CUST_0136,07-07-2025,451.04,3,Nothing special.,,,July
+CUST_0472,17-04-2025,666.25,4,Excellent service!,,,April
+CUST_0063,05-07-2025,212.21,2,Customer support unhelpful.,,,July
+CUST_0139,14-07-2025,373.94,4,Delivery was okay.,,,July
+CUST_0499,15-03-2025,269.86,5,Nothing special.,,,March
+CUST_0081,11-02-2025,278.05,4,Average service.,,,February
+CUST_0392,10-03-2025,279.14,3,Product quality acceptable.,,,March
+CUST_0163,23-02-2025,420.13,5,Loved the discounts.,,,February
+CUST_0419,18-03-2025,427.16,5,Product quality acceptable.,,,March
+CUST_0289,21-06-2025,451.29,5,Excellent service!,,,June
+CUST_0379,22-05-2025,265.23,3,Neutral experience.,,,May
+CUST_0261,21-07-2025,361.09,5,Very fast delivery.,,,July
+CUST_0490,11-05-2025,284.28,5,Neutral experience.,,,May
+CUST_0231,13-06-2025,512.31,3,Product quality acceptable.,,,June
+CUST_0041,13-04-2025,295.57,3,Loved the discounts.,,,April
+CUST_0028,03-05-2025,374.35,4,Neutral experience.,,,May
+CUST_0135,23-03-2025,467.24,3,Great experience overall.,,,March
+CUST_0201,13-03-2025,326.12,3,Delivery was very late.,,,March
+CUST_0328,01-07-2025,483.27,4,Loved the discounts.,,,July
+CUST_0268,12-05-2025,591.53,3,Customer support unhelpful.,,,May
+CUST_0418,21-05-2025,422.77,4,Good quality products.,,,May
+CUST_0033,29-03-2025,508.19,3,Average service.,,,March
+CUST_0048,27-03-2025,151.19,1,Delivery was very late.,,,March
+CUST_0407,23-06-2025,348.51,2,Very bad experience.,,,June
+CUST_0062,25-03-2025,422.19,5,Loved the discounts.,,,March
+CUST_0216,30-07-2025,273.64,2,App glitches caused trouble.,,,July
+CUST_0293,19-07-2025,424.92,4,Good quality products.,,,July
+CUST_0099,25-02-2025,527.19,4,Product quality acceptable.,,,February
+CUST_0172,10-06-2025,174.45,2,Delivery was okay.,,,June
+CUST_0360,12-07-2025,257.31,5,Neutral experience.,,,July
+CUST_0214,19-05-2025,422.18,1,Wrong items delivered.,,,May
+CUST_0475,02-07-2025,455.25,4,Neutral experience.,,,July
+CUST_0035,29-04-2025,488.57,5,Product quality acceptable.,,,April
+CUST_0449,01-03-2025,413.31,5,Nothing special.,,,March
+CUST_0227,04-07-2025,455.38,4,User friendly app.,,,July
+CUST_0101,21-03-2025,508.42,4,Good quality products.,,,March
+CUST_0431,25-04-2025,350.27,5,Great experience overall.,,,April
+CUST_0462,28-06-2025,326.97,2,Poor packaging.,,,June
+CUST_0131,04-04-2025,379.78,4,Product quality acceptable.,,,April
+CUST_0257,12-04-2025,423.94,5,Product quality acceptable.,,,April
+CUST_0005,21-06-2025,321.01,3,Delivery was very late.,,,June
+CUST_0218,03-06-2025,352.75,4,Nothing special.,,,June
+CUST_0255,03-04-2025,447.72,4,Great experience overall.,,,April
+CUST_0398,02-03-2025,418.93,4,Average service.,,,March
+CUST_0359,19-02-2025,377.76,5,Excellent service!,,,February
+CUST_0283,19-04-2025,191.07,1,Delivery was very late.,,,April
+CUST_0393,24-05-2025,399.58,5,Great experience overall.,,,May
+CUST_0207,16-07-2025,283.6,2,Wrong items delivered.,,,July
+CUST_0015,09-06-2025,517.97,4,User friendly app.,,,June
+CUST_0346,27-03-2025,362.95,5,Excellent service!,,,March
+CUST_0042,04-03-2025,280.45,5,User friendly app.,,,March
+CUST_0380,21-05-2025,392.61,3,Nothing special.,,,May
+CUST_0461,28-04-2025,552.48,1,Delivery was very late.,,,April
+CUST_0179,04-03-2025,475.7,4,Very fast delivery.,,,March
+CUST_0063,04-05-2025,426.39,5,Average service.,,,May
+CUST_0352,29-03-2025,240.87,3,Delivery was very late.,,,March
+CUST_0231,13-04-2025,594.59,2,App glitches caused trouble.,,,April
+CUST_0241,08-04-2025,325.4,2,Poor packaging.,,,April
+CUST_0052,03-05-2025,512.05,4,Good quality products.,,,May
+CUST_0096,12-07-2025,360.96,4,Neutral experience.,,,July
+CUST_0388,29-04-2025,500.5,4,Average service.,,,April
+CUST_0222,31-05-2025,556.82,4,Product quality acceptable.,,,May
+CUST_0485,24-06-2025,477.78,4,Good quality products.,,,June
+CUST_0407,15-07-2025,490.7,2,Wrong items delivered.,,,July
+CUST_0231,22-06-2025,388.19,1,App glitches caused trouble.,,,June
+CUST_0237,07-02-2025,347.92,5,Nothing special.,,,February
+CUST_0143,11-07-2025,416.6,1,Customer support unhelpful.,,,July
+CUST_0171,27-06-2025,359.21,4,User friendly app.,,,June
+CUST_0029,08-03-2025,696.06,5,Loved the discounts.,,,March
+CUST_0036,09-06-2025,280.92,5,User friendly app.,,,June
+CUST_0013,28-06-2025,520.25,3,Loved the discounts.,,,June
+CUST_0160,10-06-2025,462.06,4,Delivery was okay.,,,June
+CUST_0327,30-05-2025,427.58,5,Neutral experience.,,,May
+CUST_0187,05-02-2025,577.59,4,Neutral experience.,,,February
+CUST_0243,17-06-2025,435.81,4,Great experience overall.,,,June
+CUST_0086,22-07-2025,323.81,5,Average service.,,,July
+CUST_0284,27-04-2025,435.01,3,Product quality acceptable.,,,April
+CUST_0066,22-04-2025,378.02,4,Average service.,,,April
+CUST_0170,31-05-2025,460.39,4,Very fast delivery.,,,May
+CUST_0045,08-06-2025,497.57,4,User friendly app.,,,June
+CUST_0062,26-05-2025,296.91,4,User friendly app.,,,May
+CUST_0441,09-02-2025,543.44,3,Very fast delivery.,,,February
+CUST_0134,25-02-2025,369.41,4,Great experience overall.,,,February
+CUST_0284,22-02-2025,453.23,3,Excellent service!,,,February
+CUST_0028,04-02-2025,474.04,5,Nothing special.,,,February
+CUST_0108,09-03-2025,444.09,4,Product quality acceptable.,,,March
+CUST_0044,26-06-2025,386.91,2,Poor packaging.,,,June
+CUST_0340,11-05-2025,341.37,5,Nothing special.,,,May
+CUST_0286,06-03-2025,367.72,5,User friendly app.,,,March
+CUST_0446,03-07-2025,587.82,3,Excellent service!,,,July
+CUST_0331,17-04-2025,296.1,3,Delivery was very late.,,,April
+CUST_0128,17-05-2025,313.69,1,Very bad experience.,,,May
+CUST_0348,27-02-2025,308.42,3,Neutral experience.,,,February
+CUST_0473,18-07-2025,416.29,5,Excellent service!,,,July
+CUST_0231,25-03-2025,217.04,4,User friendly app.,,,March
+CUST_0190,23-07-2025,237.57,4,Very fast delivery.,,,July
+CUST_0225,02-06-2025,368.69,4,Excellent service!,,,June
+CUST_0385,26-03-2025,245.47,4,Great experience overall.,,,March
+CUST_0377,23-03-2025,255.25,1,Delivery was very late.,,,March
+CUST_0283,26-05-2025,246.37,3,App glitches caused trouble.,,,May
+CUST_0446,12-03-2025,298.41,4,User friendly app.,,,March
+CUST_0121,24-05-2025,487.75,5,Loved the discounts.,,,May
+CUST_0116,26-03-2025,514.68,4,Neutral experience.,,,March
+CUST_0461,22-05-2025,630.28,5,User friendly app.,,,May
+CUST_0233,30-06-2025,625.88,5,Very fast delivery.,,,June
+CUST_0259,05-03-2025,494.36,5,Product quality acceptable.,,,March
+CUST_0359,28-06-2025,523.32,1,Poor packaging.,,,June
+CUST_0198,22-04-2025,415.73,4,Nothing special.,,,April
+CUST_0456,04-07-2025,462.38,4,Nothing special.,,,July
+CUST_0411,14-04-2025,633.23,5,User friendly app.,,,April
+CUST_0137,17-02-2025,444.55,5,User friendly app.,,,February
+CUST_0318,02-04-2025,538.39,4,Average service.,,,April
+CUST_0165,14-03-2025,287.88,3,Delivery was okay.,,,March
+CUST_0225,11-06-2025,320.05,4,User friendly app.,,,June
+CUST_0307,19-05-2025,437.45,5,Very fast delivery.,,,May
+CUST_0234,13-05-2025,417.99,4,Very fast delivery.,,,May
+CUST_0172,19-02-2025,325.61,5,Neutral experience.,,,February
+CUST_0152,21-03-2025,688.89,5,User friendly app.,,,March
+CUST_0463,29-03-2025,420.71,1,Wrong items delivered.,,,March
+CUST_0315,19-03-2025,346.87,4,Delivery was okay.,,,March
+CUST_0374,24-04-2025,418.19,4,Delivery was okay.,,,April
+CUST_0160,29-06-2025,403.05,4,Average service.,,,June
+CUST_0096,29-05-2025,422.54,3,Excellent service!,,,May
+CUST_0472,25-02-2025,208.75,3,Neutral experience.,,,February
+CUST_0233,12-02-2025,555.03,5,Neutral experience.,,,February
+CUST_0180,04-07-2025,561.86,4,Neutral experience.,,,July
+CUST_0113,26-02-2025,576.44,4,Very fast delivery.,,,February
+CUST_0318,10-02-2025,439.05,5,Excellent service!,,,February
+CUST_0497,25-06-2025,479.5,2,Customer support unhelpful.,,,June
+CUST_0442,27-04-2025,296.05,3,Great experience overall.,,,April
+CUST_0052,20-04-2025,499.95,2,Delivery was very late.,,,April
+CUST_0268,17-06-2025,430.21,2,Poor packaging.,,,June
+CUST_0295,13-04-2025,344.75,5,User friendly app.,,,April
+CUST_0386,23-04-2025,503.77,2,Poor packaging.,,,April
+CUST_0387,26-06-2025,508.41,5,Product quality acceptable.,,,June
+CUST_0113,17-02-2025,407.27,4,Average service.,,,February
+CUST_0101,02-07-2025,452.61,5,Good quality products.,,,July
+CUST_0113,17-03-2025,276.19,3,Delivery was okay.,,,March
+CUST_0440,09-03-2025,549.18,3,Good quality products.,,,March
+CUST_0081,19-05-2025,292.14,4,Loved the discounts.,,,May
+CUST_0187,31-05-2025,315.35,3,Average service.,,,May
+CUST_0113,04-05-2025,407.48,1,Poor packaging.,,,May
+CUST_0002,21-06-2025,533.74,5,Very fast delivery.,,,June
+CUST_0130,16-02-2025,533.67,5,Average service.,,,February
+CUST_0220,19-05-2025,399.42,4,Product quality acceptable.,,,May
+CUST_0054,20-07-2025,492.76,4,Very fast delivery.,,,July
+CUST_0343,13-02-2025,197.31,2,Delivery was okay.,,,February
+CUST_0485,10-07-2025,313.68,4,Neutral experience.,,,July
+CUST_0224,11-03-2025,316.13,3,Product quality acceptable.,,,March
+CUST_0225,01-03-2025,550.27,5,Excellent service!,,,March
+CUST_0385,03-04-2025,478.56,1,Delivery was very late.,,,April
+CUST_0403,16-02-2025,422.16,4,User friendly app.,,,February
+CUST_0126,01-06-2025,433.81,3,Good quality products.,,,June
+CUST_0130,03-07-2025,588.2,5,Delivery was okay.,,,July
+CUST_0053,13-06-2025,379.58,5,Average service.,,,June
+CUST_0172,27-07-2025,242.31,5,Average service.,,,July
+CUST_0218,22-06-2025,530.46,5,User friendly app.,,,June
+CUST_0160,09-04-2025,421.82,4,Delivery was okay.,,,April
+CUST_0198,03-07-2025,514.44,4,Excellent service!,,,July
+CUST_0416,14-04-2025,394.63,5,Good quality products.,,,April
+CUST_0247,01-06-2025,299.36,4,Delivery was okay.,,,June
+CUST_0324,20-06-2025,448.34,4,Excellent service!,,,June
+CUST_0439,21-07-2025,401.22,3,Delivery was okay.,,,July
+CUST_0203,04-04-2025,422.19,3,Loved the discounts.,,,April
+CUST_0184,11-02-2025,593.99,4,Average service.,,,February
+CUST_0123,03-07-2025,268.16,4,Loved the discounts.,,,July
+CUST_0401,04-02-2025,434.31,5,Delivery was okay.,,,February
+CUST_0255,04-05-2025,301.72,1,Very bad experience.,,,May
+CUST_0294,21-05-2025,89.13,3,Neutral experience.,,,May
+CUST_0280,29-03-2025,394.12,3,Neutral experience.,,,March
+CUST_0325,03-02-2025,403.72,3,Average service.,,,February
+CUST_0372,05-02-2025,474.82,4,Good quality products.,,,February
+CUST_0098,19-03-2025,373.9,1,Poor packaging.,,,March
+CUST_0198,09-02-2025,221.32,4,Loved the discounts.,,,February
+CUST_0470,02-06-2025,301.31,4,User friendly app.,,,June
+CUST_0395,13-07-2025,558.04,4,Excellent service!,,,July
+CUST_0240,03-04-2025,299.6,3,Nothing special.,,,April
+CUST_0144,03-02-2025,589.99,3,Product quality acceptable.,,,February
+CUST_0097,13-02-2025,526,3,Excellent service!,,,February
+CUST_0201,30-04-2025,361.87,3,Great experience overall.,,,April
+CUST_0124,22-06-2025,312.51,5,Excellent service!,,,June
+CUST_0187,11-02-2025,525.75,4,Excellent service!,,,February
+CUST_0326,08-04-2025,371.09,4,Nothing special.,,,April
+CUST_0464,03-07-2025,214.52,4,Average service.,,,July
+CUST_0349,20-07-2025,467.48,5,Product quality acceptable.,,,July
+CUST_0259,12-03-2025,450.07,5,Product quality acceptable.,,,March
+CUST_0148,04-06-2025,536.52,5,Good quality products.,,,June
+CUST_0252,13-04-2025,441.95,5,Excellent service!,,,April
+CUST_0443,01-05-2025,334.1,4,Product quality acceptable.,,,May
+CUST_0420,09-03-2025,552.36,5,Very fast delivery.,,,March
+CUST_0403,28-02-2025,564.04,4,Good quality products.,,,February
+CUST_0346,22-04-2025,427.98,4,Very fast delivery.,,,April
+CUST_0451,17-03-2025,407.24,1,App glitches caused trouble.,,,March
+CUST_0147,08-04-2025,241.21,4,Very fast delivery.,,,April
+CUST_0148,09-05-2025,327.1,5,Neutral experience.,,,May
+CUST_0352,05-03-2025,491.29,4,User friendly app.,,,March
+CUST_0199,27-06-2025,333.13,5,Delivery was okay.,,,June
+CUST_0308,03-05-2025,225.18,4,Very fast delivery.,,,May
+CUST_0489,31-03-2025,819.51,5,Loved the discounts.,,,March
+CUST_0417,13-02-2025,224.39,3,User friendly app.,,,February
+CUST_0424,30-04-2025,670.81,1,App glitches caused trouble.,,,April
+CUST_0128,11-05-2025,363.11,5,Nothing special.,,,May
+CUST_0039,07-02-2025,389.85,4,Excellent service!,,,February
+CUST_0338,17-03-2025,319.33,1,App glitches caused trouble.,,,March
+CUST_0360,23-02-2025,493.94,5,Very fast delivery.,,,February
+CUST_0129,10-07-2025,227.23,4,Delivery was okay.,,,July
+CUST_0267,08-07-2025,179.16,3,Neutral experience.,,,July
+CUST_0476,23-04-2025,593.22,4,Nothing special.,,,April
+CUST_0441,18-04-2025,303.52,4,Product quality acceptable.,,,April
+CUST_0473,13-02-2025,489.53,4,Great experience overall.,,,February
+CUST_0434,24-05-2025,269.75,3,Loved the discounts.,,,May
+CUST_0151,15-05-2025,485.01,3,User friendly app.,,,May
+CUST_0415,29-04-2025,602.03,5,Great experience overall.,,,April
+CUST_0478,11-04-2025,336.75,3,Very bad experience.,,,April
+CUST_0298,15-04-2025,167.99,3,Product quality acceptable.,,,April
+CUST_0099,04-04-2025,602.66,4,Very fast delivery.,,,April
+CUST_0263,09-03-2025,511.15,2,Wrong items delivered.,,,March
+CUST_0252,28-06-2025,343.17,3,Delivery was okay.,,,June
+CUST_0144,09-04-2025,373.85,3,Good quality products.,,,April
+CUST_0346,30-06-2025,266.72,5,Neutral experience.,,,June
+CUST_0112,29-05-2025,570.43,4,Neutral experience.,,,May
+CUST_0060,31-05-2025,335.83,3,Loved the discounts.,,,May
+CUST_0369,14-02-2025,229.75,3,Average service.,,,February
+CUST_0002,14-07-2025,425.64,5,Great experience overall.,,,July
+CUST_0385,05-06-2025,296.8,3,Very fast delivery.,,,June
+CUST_0304,01-03-2025,276.4,4,Excellent service!,,,March
+CUST_0254,14-06-2025,348.39,4,Average service.,,,June
+CUST_0140,10-07-2025,410.36,1,App glitches caused trouble.,,,July
+CUST_0453,30-03-2025,234.27,1,App glitches caused trouble.,,,March
+CUST_0037,24-07-2025,566.22,4,Very fast delivery.,,,July
+CUST_0160,04-02-2025,481.26,5,Very fast delivery.,,,February
+CUST_0009,21-06-2025,356.16,4,Product quality acceptable.,,,June
+CUST_0233,15-02-2025,291.6,2,Poor packaging.,,,February
+CUST_0099,07-07-2025,389.29,5,Product quality acceptable.,,,July
+CUST_0147,04-03-2025,507.93,5,Loved the discounts.,,,March
+CUST_0304,25-04-2025,489.35,2,Poor packaging.,,,April
+CUST_0208,27-02-2025,527.02,4,Great experience overall.,,,February
+CUST_0131,06-06-2025,342.35,5,Very fast delivery.,,,June
+CUST_0404,03-05-2025,50,2,Poor packaging.,,,May
+CUST_0152,12-05-2025,549.74,2,Wrong items delivered.,,,May
+CUST_0054,27-06-2025,379.94,5,Loved the discounts.,,,June
+CUST_0120,01-02-2025,479.94,3,Good quality products.,,,February
+CUST_0161,12-07-2025,600.31,5,User friendly app.,,,July
+CUST_0408,25-02-2025,692.13,4,Loved the discounts.,,,February
+CUST_0116,18-02-2025,322.02,3,Loved the discounts.,,,February
+CUST_0075,27-02-2025,416.08,3,Nothing special.,,,February
+CUST_0113,24-07-2025,564.02,5,Neutral experience.,,,July
+CUST_0456,25-03-2025,298.69,4,Product quality acceptable.,,,March
+CUST_0420,27-02-2025,330.15,4,Excellent service!,,,February
+CUST_0422,11-06-2025,329.44,4,Neutral experience.,,,June
+CUST_0104,24-02-2025,396.63,4,Product quality acceptable.,,,February
+CUST_0340,18-03-2025,373.59,3,Loved the discounts.,,,March
+CUST_0254,17-02-2025,328.74,5,Neutral experience.,,,February
+CUST_0227,09-02-2025,284.11,5,Very fast delivery.,,,February
+CUST_0112,04-04-2025,497.43,2,Poor packaging.,,,April
+CUST_0473,28-05-2025,560.54,5,Loved the discounts.,,,May
+CUST_0099,13-04-2025,577.93,4,Very fast delivery.,,,April
+CUST_0153,13-04-2025,342.27,1,Delivery was very late.,,,April
+CUST_0349,05-04-2025,502.45,4,Product quality acceptable.,,,April
+CUST_0402,06-05-2025,428.36,3,Good quality products.,,,May
+CUST_0384,11-02-2025,331.52,5,Loved the discounts.,,,February
+CUST_0366,05-03-2025,488.11,3,Loved the discounts.,,,March
+CUST_0338,16-06-2025,326.01,3,Nothing special.,,,June
+CUST_0194,29-07-2025,354.86,5,User friendly app.,,,July
+CUST_0310,25-06-2025,234.79,5,Great experience overall.,,,June
+CUST_0163,18-03-2025,344.29,5,User friendly app.,,,March
+CUST_0208,26-03-2025,430.46,1,Very bad experience.,,,March
+CUST_0445,28-06-2025,588.27,3,Neutral experience.,,,June
+CUST_0169,18-07-2025,357.58,4,Loved the discounts.,,,July
+CUST_0484,08-05-2025,275.42,3,Product quality acceptable.,,,May
+CUST_0161,05-03-2025,579.68,3,Average service.,,,March
+CUST_0068,08-07-2025,339.45,4,Loved the discounts.,,,July
+CUST_0289,27-05-2025,190.19,3,Delivery was very late.,,,May
+CUST_0398,16-07-2025,415.97,4,Very fast delivery.,,,July
+CUST_0277,24-07-2025,361.03,5,Neutral experience.,,,July
+CUST_0304,17-05-2025,676.05,2,Customer support unhelpful.,,,May
+CUST_0404,21-03-2025,457.04,4,Loved the discounts.,,,March
+CUST_0384,02-04-2025,382.44,5,Excellent service!,,,April
+CUST_0392,14-06-2025,289.06,4,Excellent service!,,,June
+CUST_0135,14-04-2025,439.62,3,Great experience overall.,,,April
+CUST_0195,10-07-2025,574.81,5,Good quality products.,,,July
+CUST_0401,08-02-2025,437.42,3,Neutral experience.,,,February
+CUST_0128,03-05-2025,298.31,3,Wrong items delivered.,,,May
+CUST_0033,07-06-2025,464.66,3,Good quality products.,,,June
+CUST_0176,25-04-2025,394.17,4,Average service.,,,April
+CUST_0460,14-06-2025,453.83,2,App glitches caused trouble.,,,June
+CUST_0443,07-06-2025,357.42,3,Delivery was okay.,,,June
+CUST_0371,17-05-2025,354.6,3,Product quality acceptable.,,,May
+CUST_0470,12-02-2025,349.87,2,Delivery was very late.,,,February
+CUST_0375,21-06-2025,513.07,5,Very fast delivery.,,,June
+CUST_0022,02-06-2025,355.81,3,Delivery was very late.,,,June
+CUST_0238,11-05-2025,344.83,4,Good quality products.,,,May
+CUST_0158,30-05-2025,286.95,2,App glitches caused trouble.,,,May
+CUST_0038,04-03-2025,454.48,2,Delivery was very late.,,,March
+CUST_0230,23-04-2025,437.4,5,Great experience overall.,,,April
+CUST_0365,30-06-2025,346.15,4,Nothing special.,,,June
+CUST_0051,28-03-2025,314.87,5,Product quality acceptable.,,,March
+CUST_0438,11-06-2025,625.14,5,Very fast delivery.,,,June
+CUST_0264,07-03-2025,174.35,1,Customer support unhelpful.,,,March
+CUST_0283,08-05-2025,459.18,5,Good quality products.,,,May
+CUST_0027,21-03-2025,554.97,2,Delivery was very late.,,,March
+CUST_0226,24-02-2025,50,1,Wrong items delivered.,,,February
+CUST_0277,04-02-2025,495.3,3,Great experience overall.,,,February
+CUST_0286,02-07-2025,373.57,4,Excellent service!,,,July
+CUST_0097,29-07-2025,430.73,4,Great experience overall.,,,July
+CUST_0284,28-05-2025,361.21,5,User friendly app.,,,May
+CUST_0367,07-04-2025,529.05,3,Neutral experience.,,,April
+CUST_0448,14-07-2025,443.57,5,User friendly app.,,,July
+CUST_0481,20-07-2025,415.81,3,Very bad experience.,,,July
+CUST_0453,05-06-2025,292.14,3,Very fast delivery.,,,June
+CUST_0317,18-02-2025,625.88,5,Good quality products.,,,February
+CUST_0304,23-06-2025,401.19,5,Product quality acceptable.,,,June
+CUST_0147,26-02-2025,674.78,5,User friendly app.,,,February
+CUST_0004,28-04-2025,631.31,5,Loved the discounts.,,,April
+CUST_0035,14-02-2025,186.6,3,Average service.,,,February
+CUST_0192,30-05-2025,321.41,5,User friendly app.,,,May
+CUST_0049,16-07-2025,275.57,4,Good quality products.,,,July
+CUST_0017,03-04-2025,394.22,3,Poor packaging.,,,April
+CUST_0172,05-06-2025,422.46,5,Delivery was okay.,,,June
+CUST_0220,25-04-2025,427.59,4,Excellent service!,,,April
+CUST_0158,11-04-2025,526.5,4,Good quality products.,,,April
+CUST_0477,30-04-2025,579.23,5,Great experience overall.,,,April
+CUST_0046,05-02-2025,516.1,3,Delivery was okay.,,,February
+CUST_0373,14-07-2025,332.69,5,Neutral experience.,,,July
+CUST_0006,19-03-2025,306.16,4,User friendly app.,,,March
+CUST_0099,29-05-2025,400.33,3,Loved the discounts.,,,May
+CUST_0380,04-05-2025,451.13,4,Good quality products.,,,May
+CUST_0233,05-05-2025,378.02,3,Very fast delivery.,,,May
+CUST_0037,13-06-2025,238.54,2,Customer support unhelpful.,,,June
+CUST_0280,21-07-2025,481.85,5,Excellent service!,,,July
+CUST_0349,29-03-2025,352.92,3,Customer support unhelpful.,,,March
+CUST_0497,28-02-2025,349.3,3,User friendly app.,,,February
+CUST_0302,25-07-2025,393.45,3,User friendly app.,,,July
+CUST_0181,15-07-2025,371.21,5,Average service.,,,July
+CUST_0095,31-05-2025,356.02,5,Great experience overall.,,,May
+CUST_0099,06-07-2025,246.38,4,Loved the discounts.,,,July
+CUST_0188,14-06-2025,386.53,4,User friendly app.,,,June
+CUST_0481,28-06-2025,484.35,4,User friendly app.,,,June
+CUST_0116,10-06-2025,431.76,5,Excellent service!,,,June
+CUST_0191,20-02-2025,513.77,5,Neutral experience.,,,February
+CUST_0253,07-03-2025,312.57,4,User friendly app.,,,March
+CUST_0469,31-03-2025,246.63,4,Delivery was okay.,,,March
+CUST_0416,29-07-2025,370.5,5,Great experience overall.,,,July
+CUST_0471,20-02-2025,326.29,1,Wrong items delivered.,,,February
+CUST_0161,15-03-2025,338.76,4,Very fast delivery.,,,March
+CUST_0256,22-03-2025,425.41,4,Loved the discounts.,,,March
+CUST_0323,21-07-2025,339.63,3,Great experience overall.,,,July
+CUST_0128,22-07-2025,249.99,3,Neutral experience.,,,July
+CUST_0018,01-07-2025,332.92,5,Product quality acceptable.,,,July
+CUST_0281,21-04-2025,440.81,5,Delivery was okay.,,,April
+CUST_0490,04-06-2025,480.58,3,Very bad experience.,,,June
+CUST_0223,26-04-2025,479.37,5,Product quality acceptable.,,,April
+CUST_0054,08-02-2025,450.94,4,Great experience overall.,,,February
+CUST_0058,27-04-2025,379.83,5,Excellent service!,,,April
+CUST_0323,27-03-2025,448.59,1,Delivery was very late.,,,March
+CUST_0360,21-07-2025,394.92,5,Loved the discounts.,,,July
+CUST_0174,25-05-2025,413.57,5,Good quality products.,,,May
+CUST_0280,26-02-2025,287.28,4,Nothing special.,,,February
+CUST_0114,24-05-2025,405.26,4,Loved the discounts.,,,May
+CUST_0288,13-04-2025,445.44,4,Excellent service!,,,April
+CUST_0431,05-03-2025,440.94,3,Very fast delivery.,,,March
+CUST_0342,03-03-2025,245.5,3,Nothing special.,,,March
+CUST_0151,25-03-2025,411.55,5,Delivery was okay.,,,March
+CUST_0450,16-05-2025,226.73,5,Great experience overall.,,,May
+CUST_0127,04-04-2025,420.84,4,Great experience overall.,,,April
+CUST_0155,19-07-2025,315.84,3,Delivery was okay.,,,July
+CUST_0490,14-04-2025,604.68,1,App glitches caused trouble.,,,April
+CUST_0386,09-07-2025,414.31,5,Product quality acceptable.,,,July
+CUST_0474,09-04-2025,496.14,4,Very fast delivery.,,,April
+CUST_0273,12-06-2025,653.3,5,User friendly app.,,,June
+CUST_0104,23-04-2025,301.91,4,Nothing special.,,,April
+CUST_0417,23-02-2025,452.28,1,Poor packaging.,,,February
+CUST_0393,16-04-2025,257.69,4,Loved the discounts.,,,April
+CUST_0299,26-03-2025,441.39,5,Excellent service!,,,March
+CUST_0246,23-06-2025,611.89,5,Great experience overall.,,,June
+CUST_0176,23-06-2025,324.65,2,Customer support unhelpful.,,,June
+CUST_0039,01-04-2025,293.69,4,Excellent service!,,,April
+CUST_0477,07-03-2025,389.06,5,Product quality acceptable.,,,March
+CUST_0170,11-02-2025,645.5,5,Loved the discounts.,,,February
+CUST_0247,21-05-2025,492.52,3,Neutral experience.,,,May
+CUST_0026,24-07-2025,291.41,4,Neutral experience.,,,July
+CUST_0355,26-04-2025,574.61,4,User friendly app.,,,April
+CUST_0306,06-07-2025,201.39,3,Wrong items delivered.,,,July
+CUST_0409,04-07-2025,656.39,5,User friendly app.,,,July
+CUST_0408,20-03-2025,502.77,5,Very fast delivery.,,,March
+CUST_0013,16-03-2025,611.63,4,Great experience overall.,,,March
+CUST_0316,15-03-2025,202.26,5,Great experience overall.,,,March
+CUST_0391,11-04-2025,420.33,5,Nothing special.,,,April
+CUST_0313,19-05-2025,383.93,5,Great experience overall.,,,May
+CUST_0036,21-02-2025,279.16,1,Very bad experience.,,,February
+CUST_0173,21-04-2025,244.48,4,Very fast delivery.,,,April
+CUST_0020,04-06-2025,460.85,5,Loved the discounts.,,,June
+CUST_0321,08-03-2025,471.73,4,Product quality acceptable.,,,March
+CUST_0264,15-02-2025,556,4,Loved the discounts.,,,February
+CUST_0494,21-06-2025,339.59,2,Very bad experience.,,,June
+CUST_0400,06-03-2025,383.01,4,Delivery was okay.,,,March
+CUST_0142,28-05-2025,234.1,1,Wrong items delivered.,,,May
+CUST_0460,27-02-2025,584.89,4,Delivery was okay.,,,February
+CUST_0371,07-03-2025,408.35,4,Loved the discounts.,,,March
+CUST_0471,17-05-2025,486.71,5,Product quality acceptable.,,,May
+CUST_0143,26-06-2025,490.95,5,Good quality products.,,,June
+CUST_0092,18-04-2025,575.09,5,User friendly app.,,,April
+CUST_0354,30-04-2025,300.23,5,Delivery was okay.,,,April
+CUST_0322,06-05-2025,483.71,4,Neutral experience.,,,May
+CUST_0288,11-03-2025,397,3,Delivery was okay.,,,March
+CUST_0215,12-04-2025,652.68,4,Great experience overall.,,,April
+CUST_0447,20-07-2025,299.88,4,Good quality products.,,,July
+CUST_0342,08-03-2025,540.57,3,App glitches caused trouble.,,,March
+CUST_0051,29-05-2025,442.04,4,Nothing special.,,,May
+CUST_0153,09-06-2025,435.74,4,Loved the discounts.,,,June
+CUST_0186,23-07-2025,406.48,4,Delivery was okay.,,,July
+CUST_0063,03-06-2025,561.6,4,Product quality acceptable.,,,June
+CUST_0190,30-06-2025,431.66,2,Delivery was very late.,,,June
+CUST_0125,17-06-2025,217.07,3,Loved the discounts.,,,June
+CUST_0150,10-02-2025,546.34,5,Loved the discounts.,,,February
+CUST_0314,01-06-2025,524.34,4,User friendly app.,,,June
+CUST_0058,02-07-2025,470.46,3,Delivery was okay.,,,July
+CUST_0342,04-07-2025,264.58,5,Nothing special.,,,July
+CUST_0305,22-03-2025,283.23,3,Nothing special.,,,March
+CUST_0180,11-05-2025,174.71,3,Product quality acceptable.,,,May
+CUST_0170,30-04-2025,455.24,5,Average service.,,,April
+CUST_0326,14-07-2025,238.05,5,Average service.,,,July
+CUST_0271,10-04-2025,193.75,3,Nothing special.,,,April
+CUST_0054,19-05-2025,553,4,Neutral experience.,,,May
+CUST_0491,30-05-2025,492.18,3,Poor packaging.,,,May
+CUST_0444,30-06-2025,360.02,4,Product quality acceptable.,,,June
+CUST_0101,23-06-2025,383.91,5,Average service.,,,June
+CUST_0481,10-07-2025,111.12,3,Average service.,,,July
+CUST_0264,19-04-2025,510.01,5,Neutral experience.,,,April
+CUST_0053,03-07-2025,316.87,5,Very fast delivery.,,,July
+CUST_0060,07-02-2025,439.63,1,Wrong items delivered.,,,February
+CUST_0492,08-04-2025,101.37,3,Neutral experience.,,,April
+CUST_0108,05-06-2025,517.31,5,Neutral experience.,,,June
+CUST_0005,24-02-2025,309.66,5,Neutral experience.,,,February
+CUST_0103,09-04-2025,234.87,5,Nothing special.,,,April
+CUST_0196,04-03-2025,359.25,4,Great experience overall.,,,March
+CUST_0262,08-03-2025,328.43,4,Very fast delivery.,,,March
+CUST_0365,08-05-2025,528.91,4,User friendly app.,,,May
+CUST_0480,14-04-2025,349.55,5,Neutral experience.,,,April
+CUST_0372,03-06-2025,563.51,4,Loved the discounts.,,,June
+CUST_0350,13-02-2025,439.62,4,User friendly app.,,,February
+CUST_0047,10-06-2025,507.32,4,User friendly app.,,,June
+CUST_0355,27-02-2025,399.74,3,Poor packaging.,,,February
+CUST_0311,22-03-2025,552.65,4,Excellent service!,,,March
+CUST_0424,16-03-2025,261.57,3,Excellent service!,,,March
+CUST_0308,11-04-2025,413.63,3,User friendly app.,,,April
+CUST_0144,22-07-2025,352.43,3,Average service.,,,July
+CUST_0269,07-03-2025,567.6,4,Nothing special.,,,March
+CUST_0370,02-03-2025,579.88,1,Delivery was very late.,,,March
+CUST_0124,30-06-2025,400.05,3,Average service.,,,June
+CUST_0106,08-03-2025,245.02,5,Delivery was okay.,,,March
+CUST_0158,03-03-2025,451.25,5,Neutral experience.,,,March
+CUST_0147,27-03-2025,200.25,4,Nothing special.,,,March
+CUST_0145,08-07-2025,595.14,3,Poor packaging.,,,July
+CUST_0120,12-02-2025,343.22,3,Delivery was okay.,,,February
+CUST_0319,20-06-2025,396.33,5,Average service.,,,June
+CUST_0275,03-02-2025,318.29,5,Delivery was okay.,,,February
+CUST_0092,23-02-2025,291.79,2,Poor packaging.,,,February
+CUST_0058,29-05-2025,488.47,4,Good quality products.,,,May
+CUST_0439,15-05-2025,380.97,4,Neutral experience.,,,May
+CUST_0346,06-04-2025,405.1,2,Very bad experience.,,,April
+CUST_0229,30-06-2025,279.53,5,Excellent service!,,,June
+CUST_0474,04-03-2025,502.73,3,Very fast delivery.,,,March
+CUST_0117,16-02-2025,514.93,3,Delivery was okay.,,,February
+CUST_0318,22-06-2025,374.93,3,User friendly app.,,,June
+CUST_0279,01-07-2025,552.15,4,Good quality products.,,,July
+CUST_0127,07-04-2025,387.51,4,Product quality acceptable.,,,April
+CUST_0393,02-02-2025,493.57,3,Average service.,,,February
+CUST_0396,16-04-2025,205.25,5,Excellent service!,,,April
+CUST_0129,01-07-2025,442.41,4,Product quality acceptable.,,,July
+CUST_0058,27-03-2025,367.42,3,User friendly app.,,,March
+CUST_0122,30-06-2025,418.66,5,Very fast delivery.,,,June
+CUST_0001,27-04-2025,413.28,3,Average service.,,,April
+CUST_0239,12-02-2025,415.08,5,Good quality products.,,,February
+CUST_0290,14-03-2025,473.88,5,Average service.,,,March
+CUST_0096,23-07-2025,332.18,4,Neutral experience.,,,July
+CUST_0126,08-07-2025,468.29,3,Product quality acceptable.,,,July
+CUST_0118,08-04-2025,547.9,4,Product quality acceptable.,,,April
+CUST_0048,30-07-2025,230.78,3,Nothing special.,,,July
+CUST_0089,23-06-2025,306.34,1,Wrong items delivered.,,,June
+CUST_0488,07-04-2025,311.38,4,Average service.,,,April
+CUST_0237,20-02-2025,268.95,4,Nothing special.,,,February
+CUST_0373,25-02-2025,343.04,4,Product quality acceptable.,,,February
+CUST_0385,26-03-2025,523.97,5,Delivery was okay.,,,March
+CUST_0272,06-05-2025,573.71,4,Product quality acceptable.,,,May
+CUST_0189,21-05-2025,412.74,3,Average service.,,,May
+CUST_0487,05-06-2025,361.09,1,Poor packaging.,,,June
+CUST_0192,19-07-2025,496.35,5,Average service.,,,July
+CUST_0447,21-06-2025,116.32,2,Customer support unhelpful.,,,June
+CUST_0069,16-06-2025,273.38,3,Wrong items delivered.,,,June
+CUST_0278,25-02-2025,121.4,2,Average service.,,,February
+CUST_0349,23-07-2025,272.12,5,Neutral experience.,,,July
+CUST_0247,08-06-2025,307.96,4,Loved the discounts.,,,June
+CUST_0451,19-04-2025,577.32,1,App glitches caused trouble.,,,April
+CUST_0076,01-04-2025,68.67,2,Nothing special.,,,April
+CUST_0154,04-05-2025,350,4,Neutral experience.,,,May
+CUST_0144,01-04-2025,474.35,1,Poor packaging.,,,April
+CUST_0435,03-03-2025,449.29,1,Wrong items delivered.,,,March
+CUST_0485,12-07-2025,575.41,5,Average service.,,,July
+CUST_0086,10-06-2025,419.33,5,Very fast delivery.,,,June
+CUST_0185,09-07-2025,444.91,4,Loved the discounts.,,,July
+CUST_0285,24-04-2025,179.38,2,Average service.,,,April
+CUST_0462,29-06-2025,281.41,3,Loved the discounts.,,,June
+CUST_0220,26-05-2025,186.08,3,Product quality acceptable.,,,May
+CUST_0069,24-06-2025,468.71,4,Great experience overall.,,,June
+CUST_0047,04-02-2025,441.84,5,Product quality acceptable.,,,February
+CUST_0497,17-02-2025,437.62,4,Very fast delivery.,,,February
+CUST_0094,04-06-2025,294.23,1,Poor packaging.,,,June
+CUST_0238,24-03-2025,283.25,5,Good quality products.,,,March
+CUST_0446,16-07-2025,425.13,5,User friendly app.,,,July
+CUST_0453,04-04-2025,319.67,4,Delivery was okay.,,,April
+CUST_0204,03-04-2025,277.55,4,Good quality products.,,,April
+CUST_0400,05-07-2025,338.99,3,Very bad experience.,,,July
+CUST_0218,27-04-2025,320.71,3,User friendly app.,,,April
+CUST_0474,10-06-2025,295.99,3,Delivery was very late.,,,June
+CUST_0432,20-04-2025,252.91,1,Customer support unhelpful.,,,April
+CUST_0341,30-03-2025,453.84,5,Delivery was okay.,,,March
+CUST_0039,13-06-2025,586.73,5,Great experience overall.,,,June
+CUST_0100,23-04-2025,395.32,4,Product quality acceptable.,,,April
+CUST_0289,10-07-2025,426.69,5,Average service.,,,July
+CUST_0254,19-06-2025,464.37,1,Customer support unhelpful.,,,June
+CUST_0222,28-05-2025,443.99,4,Excellent service!,,,May
+CUST_0357,24-03-2025,298.37,4,User friendly app.,,,March
+CUST_0023,23-04-2025,606.38,5,User friendly app.,,,April
+CUST_0250,30-07-2025,309.12,5,Delivery was okay.,,,July
+CUST_0010,21-02-2025,477.77,3,Nothing special.,,,February
+CUST_0246,24-05-2025,463.62,3,Excellent service!,,,May
+CUST_0325,31-05-2025,164.99,2,Neutral experience.,,,May
+CUST_0100,09-06-2025,356.94,3,Delivery was okay.,,,June
+CUST_0290,20-03-2025,406.8,4,Average service.,,,March
+CUST_0180,30-03-2025,415.98,5,Excellent service!,,,March
+CUST_0223,28-02-2025,436.17,5,Great experience overall.,,,February
+CUST_0394,06-03-2025,490.92,5,Loved the discounts.,,,March
+CUST_0250,27-07-2025,399.1,3,Delivery was okay.,,,July
+CUST_0147,28-04-2025,442.55,4,Delivery was okay.,,,April
+CUST_0442,10-04-2025,394.61,3,Product quality acceptable.,,,April
+CUST_0096,28-04-2025,277.92,4,Product quality acceptable.,,,April
+CUST_0257,18-04-2025,403.89,4,Nothing special.,,,April
+CUST_0325,28-04-2025,489.89,3,User friendly app.,,,April
+CUST_0493,20-05-2025,533.05,1,Customer support unhelpful.,,,May
+CUST_0004,02-07-2025,464.48,5,User friendly app.,,,July
+CUST_0016,28-06-2025,560.12,2,Wrong items delivered.,,,June
+CUST_0280,30-03-2025,450.26,4,Delivery was okay.,,,March
+CUST_0336,19-06-2025,503.67,1,Customer support unhelpful.,,,June
+CUST_0247,15-06-2025,512.49,1,Delivery was very late.,,,June
+CUST_0258,23-03-2025,373.2,5,Delivery was okay.,,,March
+CUST_0497,05-02-2025,487.12,3,Great experience overall.,,,February
+CUST_0476,07-05-2025,287.12,4,Neutral experience.,,,May
+CUST_0384,10-03-2025,441.98,3,Neutral experience.,,,March
+CUST_0160,23-05-2025,469.24,4,Delivery was okay.,,,May
+CUST_0475,16-06-2025,526.13,3,Good quality products.,,,June
+CUST_0340,14-04-2025,498.49,5,Average service.,,,April
+CUST_0152,28-07-2025,527.69,5,Good quality products.,,,July
+CUST_0396,08-03-2025,388.07,5,Nothing special.,,,March
+CUST_0178,16-05-2025,358.55,4,Product quality acceptable.,,,May
+CUST_0163,02-06-2025,367.01,3,Delivery was very late.,,,June
+CUST_0380,10-02-2025,431.95,2,Customer support unhelpful.,,,February
+CUST_0033,20-06-2025,182.95,2,Neutral experience.,,,June
+CUST_0417,29-05-2025,559.81,5,Nothing special.,,,May
+CUST_0445,10-07-2025,405.26,3,Neutral experience.,,,July
+CUST_0179,04-03-2025,350.2,3,Excellent service!,,,March
+CUST_0427,10-02-2025,96.43,3,Delivery was okay.,,,February
+CUST_0101,18-07-2025,395.58,4,Neutral experience.,,,July
+CUST_0268,03-07-2025,376.18,4,Delivery was okay.,,,July
+CUST_0323,19-04-2025,292.35,4,Good quality products.,,,April
+CUST_0065,08-07-2025,319.23,3,Customer support unhelpful.,,,July
+CUST_0417,22-07-2025,396.8,3,Poor packaging.,,,July
+CUST_0168,24-05-2025,329.41,5,Excellent service!,,,May
+CUST_0330,02-06-2025,468.63,1,Wrong items delivered.,,,June
+CUST_0043,12-02-2025,310.15,3,Delivery was okay.,,,February
+CUST_0044,18-02-2025,418.55,2,Wrong items delivered.,,,February
+CUST_0285,29-06-2025,541.61,3,User friendly app.,,,June
+CUST_0397,15-05-2025,395.61,3,Average service.,,,May
+CUST_0012,01-07-2025,442.72,4,Great experience overall.,,,July
+CUST_0095,27-04-2025,435.12,2,Wrong items delivered.,,,April
+CUST_0302,30-04-2025,400.96,3,Customer support unhelpful.,,,April
+CUST_0386,01-03-2025,391.96,4,Loved the discounts.,,,March
+CUST_0253,02-02-2025,331.44,1,Customer support unhelpful.,,,February
+CUST_0499,30-07-2025,418.12,3,Loved the discounts.,,,July
+CUST_0242,01-07-2025,366.01,5,Very fast delivery.,,,July
+CUST_0035,22-02-2025,585.53,5,Average service.,,,February
+CUST_0215,08-05-2025,497.34,5,Excellent service!,,,May
+CUST_0337,29-05-2025,225.66,3,Very bad experience.,,,May
+CUST_0090,07-07-2025,232.34,4,Product quality acceptable.,,,July
+CUST_0264,22-05-2025,384.34,4,Excellent service!,,,May
+CUST_0093,16-06-2025,352.56,4,Great experience overall.,,,June
+CUST_0410,24-06-2025,378.02,4,User friendly app.,,,June
+CUST_0458,19-05-2025,478.14,4,Neutral experience.,,,May
+CUST_0090,12-06-2025,437.89,4,Very fast delivery.,,,June
+CUST_0418,05-04-2025,436.68,5,Neutral experience.,,,April
+CUST_0115,10-02-2025,573.54,3,Delivery was very late.,,,February
+CUST_0105,05-07-2025,233.33,5,Excellent service!,,,July
+CUST_0391,23-05-2025,412.47,5,User friendly app.,,,May
+CUST_0196,14-07-2025,330.51,2,Poor packaging.,,,July
+CUST_0314,01-05-2025,572.25,1,Delivery was very late.,,,May
+CUST_0114,14-02-2025,134.88,2,Neutral experience.,,,February
+CUST_0493,01-06-2025,140.14,2,Poor packaging.,,,June
+CUST_0075,24-06-2025,436.56,2,Poor packaging.,,,June
+CUST_0413,11-04-2025,535.16,3,Good quality products.,,,April
+CUST_0376,12-05-2025,492.79,5,Average service.,,,May
+CUST_0420,05-06-2025,303.88,3,Neutral experience.,,,June
+CUST_0217,18-06-2025,580.77,4,Very fast delivery.,,,June
+CUST_0277,04-07-2025,252.22,5,Nothing special.,,,July
+CUST_0249,26-03-2025,556.9,3,User friendly app.,,,March
+CUST_0164,29-06-2025,268.09,3,Average service.,,,June
+CUST_0394,24-07-2025,357.78,4,Loved the discounts.,,,July
+CUST_0357,29-03-2025,476.71,5,Great experience overall.,,,March
+CUST_0457,17-02-2025,224.06,2,Poor packaging.,,,February
+CUST_0408,04-02-2025,576.28,5,Nothing special.,,,February
+CUST_0192,21-04-2025,357.05,2,App glitches caused trouble.,,,April
+CUST_0227,12-06-2025,416.47,3,Very fast delivery.,,,June
+CUST_0177,12-07-2025,539.46,5,Good quality products.,,,July
+CUST_0099,09-07-2025,304.82,1,Wrong items delivered.,,,July
+CUST_0496,04-04-2025,527.3,5,Very fast delivery.,,,April
+CUST_0036,30-06-2025,596.86,4,Nothing special.,,,June
+CUST_0466,17-04-2025,321.33,5,Excellent service!,,,April
+CUST_0497,09-07-2025,564.33,3,Loved the discounts.,,,July
+CUST_0487,26-07-2025,188.73,2,Neutral experience.,,,July
+CUST_0096,05-05-2025,446.75,1,Very bad experience.,,,May
+CUST_0152,26-06-2025,252.57,1,Customer support unhelpful.,,,June
+CUST_0151,19-03-2025,513.11,5,Delivery was okay.,,,March
+CUST_0190,29-05-2025,503.25,4,User friendly app.,,,May
+CUST_0224,25-06-2025,649.29,5,Excellent service!,,,June
+CUST_0037,28-06-2025,570.55,3,Nothing special.,,,June
+CUST_0268,23-06-2025,380.11,4,Neutral experience.,,,June
+CUST_0369,19-04-2025,270.19,5,User friendly app.,,,April
+CUST_0183,17-06-2025,467.88,4,Very fast delivery.,,,June
+CUST_0013,02-04-2025,392.71,5,Loved the discounts.,,,April
+CUST_0279,03-02-2025,586.14,5,Neutral experience.,,,February
+CUST_0217,24-05-2025,140.03,3,App glitches caused trouble.,,,May
+CUST_0355,22-04-2025,662.57,5,Excellent service!,,,April
+CUST_0361,27-06-2025,463.84,5,Nothing special.,,,June
+CUST_0286,18-03-2025,302.44,3,Delivery was very late.,,,March
+CUST_0273,04-05-2025,488.08,5,Great experience overall.,,,May
+CUST_0369,21-03-2025,555.69,2,App glitches caused trouble.,,,March
+CUST_0062,05-02-2025,413.72,5,Delivery was okay.,,,February
+CUST_0084,01-05-2025,188.21,3,Product quality acceptable.,,,May
+CUST_0368,11-03-2025,364.74,5,Very fast delivery.,,,March
+CUST_0217,09-06-2025,524.73,3,Product quality acceptable.,,,June
+CUST_0342,11-05-2025,459.6,3,Neutral experience.,,,May
+CUST_0397,24-07-2025,381.22,5,Great experience overall.,,,July
+CUST_0187,29-03-2025,557,1,Delivery was very late.,,,March
+CUST_0019,08-03-2025,488.72,2,Customer support unhelpful.,,,March
+CUST_0177,02-07-2025,497.96,4,Average service.,,,July
+CUST_0100,08-07-2025,350.72,2,Delivery was very late.,,,July
+CUST_0396,15-06-2025,339.11,3,Delivery was okay.,,,June
+CUST_0445,14-02-2025,196,2,Product quality acceptable.,,,February
+CUST_0233,21-04-2025,368.87,5,Neutral experience.,,,April
+CUST_0403,17-05-2025,512.25,5,Average service.,,,May
+CUST_0076,16-03-2025,375.51,5,Good quality products.,,,March
+CUST_0265,18-05-2025,453.46,2,Customer support unhelpful.,,,May
+CUST_0455,18-05-2025,533.34,2,Poor packaging.,,,May
+CUST_0284,28-07-2025,444.74,5,Product quality acceptable.,,,July
+CUST_0206,07-02-2025,456.46,4,Neutral experience.,,,February
+CUST_0223,10-07-2025,237.06,3,Loved the discounts.,,,July
+CUST_0384,28-06-2025,361.29,5,Nothing special.,,,June
+CUST_0052,26-07-2025,607.2,5,Loved the discounts.,,,July
+CUST_0339,20-07-2025,412.46,5,Average service.,,,July
+CUST_0367,08-06-2025,627.61,4,User friendly app.,,,June
+CUST_0144,15-07-2025,313.23,2,Customer support unhelpful.,,,July
+CUST_0373,10-04-2025,428.07,4,Nothing special.,,,April
+CUST_0069,15-07-2025,354.08,4,Loved the discounts.,,,July
+CUST_0099,27-06-2025,471.04,1,Wrong items delivered.,,,June
+CUST_0396,26-04-2025,507.4,4,User friendly app.,,,April
+CUST_0025,19-07-2025,472.3,4,Very fast delivery.,,,July
+CUST_0436,28-05-2025,525.02,4,Loved the discounts.,,,May
+CUST_0379,12-04-2025,398.42,2,Customer support unhelpful.,,,April
+CUST_0469,05-03-2025,377.14,5,User friendly app.,,,March
+CUST_0484,02-04-2025,189.02,3,Nothing special.,,,April
+CUST_0053,15-03-2025,476.61,5,Nothing special.,,,March
+CUST_0151,27-04-2025,420.66,4,Nothing special.,,,April
+CUST_0144,09-05-2025,391.85,4,Neutral experience.,,,May
+CUST_0057,09-05-2025,377.1,5,Delivery was okay.,,,May
+CUST_0039,26-04-2025,395.57,3,Great experience overall.,,,April
+CUST_0109,22-02-2025,371.65,4,Excellent service!,,,February
+CUST_0181,07-04-2025,336.64,4,Average service.,,,April
+CUST_0042,24-06-2025,428.75,3,Great experience overall.,,,June
+CUST_0186,05-06-2025,458.1,5,Good quality products.,,,June
+CUST_0423,17-04-2025,307.53,4,Average service.,,,April
+CUST_0398,18-07-2025,351.91,4,User friendly app.,,,July
+CUST_0223,31-03-2025,375.45,3,Great experience overall.,,,March
+CUST_0122,04-04-2025,400.58,5,Loved the discounts.,,,April
+CUST_0133,15-06-2025,384.62,1,Wrong items delivered.,,,June
+CUST_0163,04-07-2025,479.17,5,Loved the discounts.,,,July
+CUST_0215,27-05-2025,201.72,2,App glitches caused trouble.,,,May
+CUST_0221,31-05-2025,223,3,Loved the discounts.,,,May
+CUST_0235,20-04-2025,423.23,2,App glitches caused trouble.,,,April
+CUST_0331,03-05-2025,327.68,3,Excellent service!,,,May
+CUST_0146,05-06-2025,506.11,4,Product quality acceptable.,,,June
+CUST_0239,30-03-2025,540.38,4,User friendly app.,,,March
+CUST_0076,03-07-2025,428.05,5,Very fast delivery.,,,July
+CUST_0009,16-03-2025,271.36,3,User friendly app.,,,March
+CUST_0074,06-02-2025,526.55,5,Delivery was okay.,,,February
+CUST_0442,23-02-2025,423.87,3,Average service.,,,February
+CUST_0492,27-06-2025,221.57,4,Product quality acceptable.,,,June
+CUST_0401,11-02-2025,232.18,4,User friendly app.,,,February
+CUST_0253,15-04-2025,582.03,5,Average service.,,,April
+CUST_0230,13-03-2025,562.14,4,Neutral experience.,,,March
+CUST_0007,26-04-2025,97.94,2,Nothing special.,,,April
+CUST_0174,17-06-2025,237.07,4,Average service.,,,June
+CUST_0141,26-07-2025,536.9,3,Excellent service!,,,July
+CUST_0168,14-03-2025,397.78,1,Delivery was very late.,,,March
+CUST_0170,12-02-2025,484.22,4,Loved the discounts.,,,February
+CUST_0393,21-04-2025,392.57,3,User friendly app.,,,April
+CUST_0434,03-02-2025,478.54,3,Delivery was okay.,,,February
+CUST_0283,12-03-2025,400.7,5,User friendly app.,,,March
+CUST_0122,09-06-2025,347.49,1,Wrong items delivered.,,,June
+CUST_0194,12-05-2025,527.05,3,Neutral experience.,,,May
+CUST_0005,12-05-2025,424.25,4,Nothing special.,,,May
+CUST_0029,21-05-2025,478.29,2,Wrong items delivered.,,,May
+CUST_0165,04-03-2025,418.89,4,Average service.,,,March
+CUST_0422,19-06-2025,341.64,4,Product quality acceptable.,,,June
+CUST_0339,16-02-2025,593.01,3,Product quality acceptable.,,,February
+CUST_0136,30-05-2025,442.6,2,Wrong items delivered.,,,May
+CUST_0496,08-07-2025,357.39,4,Delivery was okay.,,,July
+CUST_0365,04-02-2025,553.4,5,Product quality acceptable.,,,February
+CUST_0321,31-03-2025,241.5,3,Wrong items delivered.,,,March
+CUST_0342,10-04-2025,668.35,5,Good quality products.,,,April
+CUST_0145,25-02-2025,378.5,1,Very bad experience.,,,February
+CUST_0327,04-07-2025,247.84,4,Average service.,,,July
+CUST_0217,09-02-2025,628.71,1,Wrong items delivered.,,,February
+CUST_0301,28-07-2025,344.42,3,Loved the discounts.,,,July
+CUST_0132,01-04-2025,429.19,3,Loved the discounts.,,,April
+CUST_0292,19-06-2025,486.12,5,User friendly app.,,,June
+CUST_0070,19-05-2025,542.1,4,Very fast delivery.,,,May
+CUST_0252,11-06-2025,435.97,4,User friendly app.,,,June
+CUST_0415,02-03-2025,322.32,4,Great experience overall.,,,March
+CUST_0275,06-07-2025,426.28,4,Very fast delivery.,,,July
+CUST_0445,11-07-2025,349.68,1,Very bad experience.,,,July
+CUST_0364,30-07-2025,429.88,5,Product quality acceptable.,,,July
+CUST_0182,23-03-2025,595.38,3,Good quality products.,,,March
+CUST_0167,30-03-2025,490.71,5,User friendly app.,,,March
+CUST_0091,23-02-2025,424.8,5,User friendly app.,,,February
+CUST_0202,17-02-2025,488.62,5,Average service.,,,February
+CUST_0346,19-06-2025,497.21,4,Loved the discounts.,,,June
+CUST_0019,13-07-2025,270.66,3,Nothing special.,,,July
+CUST_0039,05-06-2025,405.01,4,Product quality acceptable.,,,June
+CUST_0126,07-04-2025,707.5,5,Loved the discounts.,,,April
+CUST_0451,06-07-2025,545.54,4,Loved the discounts.,,,July
+CUST_0173,28-06-2025,339.59,5,Very fast delivery.,,,June
+CUST_0141,28-04-2025,327.62,4,User friendly app.,,,April
+CUST_0242,03-07-2025,323.62,4,Loved the discounts.,,,July
+CUST_0220,23-06-2025,503.96,1,Poor packaging.,,,June
+CUST_0126,29-03-2025,592.92,1,Wrong items delivered.,,,March
+CUST_0058,18-03-2025,469.86,2,Poor packaging.,,,March
+CUST_0148,25-06-2025,418.86,5,Loved the discounts.,,,June
+CUST_0476,10-05-2025,346.7,5,Excellent service!,,,May
+CUST_0456,26-05-2025,439.52,5,Product quality acceptable.,,,May
+CUST_0317,01-07-2025,301.59,5,Good quality products.,,,July
+CUST_0383,18-03-2025,167.71,3,Product quality acceptable.,,,March
+CUST_0361,11-05-2025,596.42,1,Delivery was very late.,,,May
+CUST_0423,07-03-2025,279.3,2,Delivery was very late.,,,March
+CUST_0001,19-04-2025,361.02,1,App glitches caused trouble.,,,April
+CUST_0387,25-02-2025,478.76,3,Loved the discounts.,,,February
+CUST_0461,14-02-2025,572.14,5,Good quality products.,,,February
+CUST_0348,30-06-2025,430.86,4,Neutral experience.,,,June
+CUST_0190,24-04-2025,256.75,3,Average service.,,,April
+CUST_0191,11-06-2025,363.84,3,Very fast delivery.,,,June
+CUST_0369,28-02-2025,318.58,1,Delivery was very late.,,,February
+CUST_0409,12-04-2025,395.41,5,Nothing special.,,,April
+CUST_0312,04-06-2025,547.84,1,Wrong items delivered.,,,June
+CUST_0417,19-02-2025,95.51,2,Nothing special.,,,February
+CUST_0422,22-06-2025,350.63,4,Average service.,,,June
+CUST_0117,02-04-2025,341.91,4,Average service.,,,April
+CUST_0134,02-03-2025,249.19,5,Great experience overall.,,,March
+CUST_0058,31-05-2025,470.26,1,Poor packaging.,,,May
+CUST_0044,22-06-2025,230.2,4,Excellent service!,,,June
+CUST_0173,19-04-2025,244.01,5,Loved the discounts.,,,April
+CUST_0160,09-04-2025,502.13,5,Average service.,,,April
+CUST_0173,16-05-2025,580.07,5,Very fast delivery.,,,May
+CUST_0317,19-07-2025,390.87,5,Very fast delivery.,,,July
+CUST_0303,16-02-2025,253.91,3,Delivery was okay.,,,February
+CUST_0149,08-07-2025,315.33,4,Average service.,,,July
+CUST_0080,11-02-2025,520.96,4,Very fast delivery.,,,February
+CUST_0374,29-06-2025,413.97,5,Nothing special.,,,June
+CUST_0213,20-02-2025,387.88,3,Neutral experience.,,,February
+CUST_0203,22-07-2025,437.57,3,Neutral experience.,,,July
+CUST_0252,17-06-2025,395.48,4,Excellent service!,,,June
+CUST_0229,06-04-2025,585.49,3,Good quality products.,,,April
+CUST_0164,28-04-2025,310.1,3,Good quality products.,,,April
+CUST_0227,17-04-2025,296.32,3,App glitches caused trouble.,,,April
+CUST_0147,24-07-2025,233.99,4,Loved the discounts.,,,July
+CUST_0020,16-05-2025,335.2,2,Delivery was very late.,,,May
+CUST_0441,24-03-2025,268.96,2,Poor packaging.,,,March
+CUST_0402,21-02-2025,426.17,1,Delivery was very late.,,,February
+CUST_0047,20-02-2025,402.51,1,App glitches caused trouble.,,,February
+CUST_0233,27-03-2025,270.51,4,Delivery was okay.,,,March
+CUST_0305,28-02-2025,470.7,4,Nothing special.,,,February
+CUST_0014,17-04-2025,582.02,5,Nothing special.,,,April
+CUST_0143,27-04-2025,442.94,4,Nothing special.,,,April
+CUST_0415,12-07-2025,94.78,1,Poor packaging.,,,July
+CUST_0001,01-02-2025,638.46,5,Loved the discounts.,,,February
+CUST_0373,16-07-2025,489.63,5,Delivery was okay.,,,July
+CUST_0054,03-07-2025,634.77,5,User friendly app.,,,July
+CUST_0374,02-04-2025,530.89,5,Average service.,,,April
+CUST_0259,27-02-2025,554.86,5,Loved the discounts.,,,February
+CUST_0144,04-06-2025,424.63,4,Nothing special.,,,June
+CUST_0471,04-05-2025,368.52,5,Delivery was okay.,,,May
+CUST_0441,10-05-2025,444.82,3,Loved the discounts.,,,May
+CUST_0459,07-03-2025,314.95,5,Nothing special.,,,March
+CUST_0012,25-04-2025,452.07,5,Nothing special.,,,April
+CUST_0330,21-06-2025,84.79,2,Delivery was okay.,,,June
+CUST_0224,18-03-2025,405.15,5,Nothing special.,,,March
+CUST_0272,15-03-2025,561.36,3,Very bad experience.,,,March
+CUST_0456,08-05-2025,411.32,4,Very fast delivery.,,,May
+CUST_0358,27-07-2025,607.3,5,Very fast delivery.,,,July
+CUST_0460,26-03-2025,368.35,3,Neutral experience.,,,March
+CUST_0408,29-04-2025,520.32,4,User friendly app.,,,April
+CUST_0156,13-03-2025,294.61,4,Loved the discounts.,,,March
+CUST_0373,21-02-2025,515.43,2,Very bad experience.,,,February
+CUST_0008,17-07-2025,427.91,3,Delivery was very late.,,,July
+CUST_0122,11-03-2025,373.63,5,Good quality products.,,,March
+CUST_0348,27-06-2025,91.13,3,Average service.,,,June
+CUST_0164,07-06-2025,369.47,4,Good quality products.,,,June
+CUST_0090,01-02-2025,425.61,5,Product quality acceptable.,,,February
+CUST_0136,19-02-2025,499.45,3,Very fast delivery.,,,February
+CUST_0186,20-05-2025,587.31,5,Good quality products.,,,May
+CUST_0316,11-07-2025,644.2,5,Excellent service!,,,July
+CUST_0178,14-05-2025,549.55,3,Delivery was okay.,,,May
+CUST_0028,03-07-2025,332.55,5,Average service.,,,July
+CUST_0220,08-07-2025,363.42,4,Nothing special.,,,July
+CUST_0357,27-07-2025,488.67,4,Average service.,,,July
+CUST_0041,23-04-2025,462.35,4,Loved the discounts.,,,April
+CUST_0228,09-04-2025,595.4,3,Excellent service!,,,April
+CUST_0192,23-04-2025,697.53,4,Very fast delivery.,,,April
+CUST_0411,06-07-2025,672.06,4,Good quality products.,,,July
+CUST_0447,24-05-2025,579.27,4,Loved the discounts.,,,May
+CUST_0145,02-06-2025,463.35,1,Very bad experience.,,,June
+CUST_0201,13-03-2025,561.92,5,Average service.,,,March
+CUST_0417,01-03-2025,599.37,4,Very fast delivery.,,,March
+CUST_0212,23-03-2025,382.32,5,Neutral experience.,,,March
+CUST_0461,10-02-2025,336.08,5,User friendly app.,,,February
+CUST_0220,23-03-2025,307.91,1,Wrong items delivered.,,,March
+CUST_0240,01-06-2025,294.83,5,Neutral experience.,,,June
+CUST_0413,03-02-2025,234.16,3,App glitches caused trouble.,,,February
+CUST_0397,05-07-2025,429.99,3,Very bad experience.,,,July
+CUST_0046,04-05-2025,280.03,4,User friendly app.,,,May
+CUST_0035,24-06-2025,305.98,3,Delivery was okay.,,,June
+CUST_0253,22-04-2025,484.15,5,Very fast delivery.,,,April
+CUST_0390,13-07-2025,421.79,5,Product quality acceptable.,,,July
+CUST_0082,27-03-2025,451.55,5,User friendly app.,,,March
+CUST_0371,12-05-2025,563.82,1,Very bad experience.,,,May
+CUST_0256,07-06-2025,503.74,3,Poor packaging.,,,June
+CUST_0197,10-03-2025,582.27,3,Wrong items delivered.,,,March
+CUST_0303,18-05-2025,409.6,4,Good quality products.,,,May
+CUST_0409,10-05-2025,593.41,3,Very fast delivery.,,,May
+CUST_0450,14-04-2025,443.17,1,Delivery was very late.,,,April
+CUST_0010,02-06-2025,420.24,5,Good quality products.,,,June
+CUST_0312,04-03-2025,575.38,5,Loved the discounts.,,,March
+CUST_0286,06-07-2025,295.34,5,Nothing special.,,,July
+CUST_0242,13-03-2025,642.83,2,Very bad experience.,,,March
+CUST_0251,16-04-2025,366.15,4,Nothing special.,,,April
+CUST_0365,29-03-2025,253.83,1,Wrong items delivered.,,,March
+CUST_0005,04-06-2025,478.42,4,Average service.,,,June
+CUST_0119,17-07-2025,354.72,5,Very fast delivery.,,,July
+CUST_0289,06-07-2025,643.1,5,User friendly app.,,,July
+CUST_0374,15-07-2025,348.05,5,Loved the discounts.,,,July
+CUST_0065,19-03-2025,437.73,3,Very bad experience.,,,March
+CUST_0146,07-07-2025,228.93,4,Delivery was okay.,,,July
+CUST_0224,26-06-2025,497.55,4,Loved the discounts.,,,June
+CUST_0239,06-06-2025,306.71,5,Product quality acceptable.,,,June
+CUST_0177,24-05-2025,483.2,5,Product quality acceptable.,,,May
+CUST_0267,16-06-2025,348.6,3,Average service.,,,June
+CUST_0341,27-05-2025,154.37,2,Nothing special.,,,May
