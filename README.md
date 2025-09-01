@@ -24,8 +24,8 @@ Created new derived columns for better insights
 
 🧠 Tools & Technologies Used
 
-Python 🐍 → Pandas, NumPy, Matplotlib, Seaborn
-Orange → No-code data visualization
-Flourish → Interactive visualizations
-Jupyter Notebook → Data cleaning & exploration
-PowerPoint → Final presentation
+Python 🐍 → Pandas, NumPy, Matplotlib, Seaborn.
+Orange → No-code data visualization.
+Flourish → Interactive visualizations.
+Jupyter Notebook → Data cleaning & exploration.
+PowerPoint → Final presentation.
