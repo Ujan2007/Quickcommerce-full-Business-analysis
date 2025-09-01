@@ -1,29 +1,19 @@
 # Quickcommerce-full-Business-analysis
 
-📌 Project Overview
+📁 Project Overview
 
-This project analyzes customer behavior and performance metrics for a fictional Quick Commerce company named QuickBazaar. The goal was to identify factors affecting customer satisfaction, average order value, and delivery efficiency, and to provide actionable insights for improving business performance.
+This project analyzes data from a Quick Commerce company facing losses.
+The goal was to identify patterns, visualize trends, and provide insights into customer behavior, order value, and delivery issues using Python, Orange, and Flourish.
 
-📂 Project Structure
+
+🗂️ Project Structure
 Quick-Commerce-Data-Analysis/
-│
-├── 📁 Data
-│   ├── raw_datasets/          # Original datasets  
-│   ├── cleaned_datasets/      # Processed & cleaned datasets  
-│
-├── 📁 Notebook
-│   ├── Data_Cleaning_Analysis.ipynb  # Jupyter notebook for cleaning, EDA & stats  
-│
-├── 📁 Orange Workflow
-│   ├── quick_commerce.ows      # Orange data mining workflow  
-│
-├── 📁 Visualizations
-│   ├── Orange/                # Visuals generated in Orange  
-│   ├── Flourish/              # Interactive charts from Flourish  
-│   ├── Jupyter/               # Plots from Jupyter notebook  
-│
-├── 📄 Quick_Commerce_Presentation.pptx  # Final PowerPoint presentation  
-└── 📄 README.md               # Project documentation  
+│── Data/                  # Contains original & cleaned datasets  
+│── Notebook/              # Jupyter notebook for data cleaning & analysis  
+│── Orange Workflow/       # Orange data visualization workflow file  
+│── Visualizations/        # All graphs from Jupyter, Orange & Flourish  
+│── QuickCommerce.pptx     # Final PowerPoint presentation  
+│── README.md              # Project documentation
 
 🧹 Data Cleaning & Preparation
 
@@ -32,10 +22,10 @@ Normalized inconsistent entries
 Removed outliers affecting analysis
 Created new derived columns for better insights
 
-📊 Tools & Technologies Used
-Tool	                                 Purpose
-Python (Pandas, NumPy)	               Data cleaning & statistical analysis
-Jupyter Notebook	                     Exploratory data analysis & insights
-Orange Data Mining	                   Workflow-based data analysis + Visualizations
-Flourish	                             Interactive data visualizations
-PowerPoint	                           Final presentation
+🧠 Tools & Technologies Used
+
+Python 🐍 → Pandas, NumPy, Matplotlib, Seaborn
+Orange → No-code data visualization
+Flourish → Interactive visualizations
+Jupyter Notebook → Data cleaning & exploration
+PowerPoint → Final presentation
